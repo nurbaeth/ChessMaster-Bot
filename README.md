@@ -22,7 +22,7 @@ ChessMaster Bot is a simple yet powerful chess bot that plays against a human op
 
 Run the bot with:
 ```sh
-python chessmaster_bot.py
+python chessmaster_bot.py 
 ```
 
 Enter your moves in UCI format (e.g., `e2e4`) and let the bot respond.
