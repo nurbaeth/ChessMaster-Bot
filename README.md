@@ -13,7 +13,7 @@ ChessMaster Bot is a simple yet powerful chess bot that plays against a human op
 1. Install Python (if not already installed). 
 2. Install the required Python package:
    ```sh 
-   pip install chess 
+   pip install chess  
    ```
 3. Download and install [Stockfish](https://stockfishchess.org/download/).
 4. Ensure Stockfish is accessible from your system's PATH.
