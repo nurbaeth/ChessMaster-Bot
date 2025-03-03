@@ -20,7 +20,7 @@ ChessMaster Bot is a simple yet powerful chess bot that plays against a human op
 
 ## Usage 
 
-Run the bot with:
+Run the bot with: 
 ```sh
 python chessmaster_bot.py 
 ```
