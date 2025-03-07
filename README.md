@@ -18,7 +18,7 @@ ChessMaster Bot is a simple yet powerful chess bot that plays against a human op
 3. Download and install [Stockfish](https://stockfishchess.org/download/).
 4. Ensure Stockfish is accessible from your system's PATH.
 
-## Usage  
+## Usage   
 
 Run the bot with: 
 ```sh
