@@ -11,7 +11,7 @@ ChessMaster Bot is a simple yet powerful chess bot that plays against a human op
 ## Installation
 
 1. Install Python (if not already installed). 
-2. Install the required Python package:
+2. Install the required Python package: 
    ```sh   
    pip install chess   
    ```
