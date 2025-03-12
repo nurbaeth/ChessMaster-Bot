@@ -19,7 +19,7 @@ ChessMaster Bot is a simple yet powerful chess bot that plays against a human op
 4. Ensure Stockfish is accessible from your system's PATH.
 
 ## Usage   
-
+ 
 Run the bot with: 
 ```sh
 python chessmaster_bot.py 
